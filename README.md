@@ -6,6 +6,6 @@ Probabilistic establishment of speckle-associated inter-chromosomal interactions
 
 ##
 
-http://junglab.kaist.ac.kr/Dataset/HiCAN source.tar.gz
+http://junglab.kaist.ac.kr/Dataset/HiCAN_source.tar.gz
 
 New version will be updated.
